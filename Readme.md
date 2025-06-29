@@ -1,4 +1,4 @@
-# Caprae Capital: Lead Generation with AI
+# Caprae Capital: Lead Generation
 
 ## Overview
 
